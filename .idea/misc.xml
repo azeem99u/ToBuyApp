@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mr. Azeem/AndroidStudioProjects/ToBuyApp/app/src/main/res/drawable/ic_customization_24.xml" value="0.113" />
+        <entry key="..\:/Users/Mr. Azeem/AndroidStudioProjects/ToBuyApp/app/src/main/res/drawable/ic_delete_24.xml" value="0.2575" />
+        <entry key="..\:/Users/Mr. Azeem/AndroidStudioProjects/ToBuyApp/app/src/main/res/drawable/ic_edit_24.xml" value="0.1465" />
+        <entry key="..\:/Users/Mr. Azeem/AndroidStudioProjects/ToBuyApp/app/src/main/res/layout/activity_main.xml" value="0.15353260869565216" />
+        <entry key="..\:/Users/Mr. Azeem/AndroidStudioProjects/ToBuyApp/app/src/main/res/layout/bottom_sheet_sort_order.xml" value="0.2520833333333333" />
+        <entry key="..\:/Users/Mr. Azeem/AndroidStudioProjects/ToBuyApp/app/src/main/res/layout/epoxy_model_loading.xml" value="0.1431159420289855" />
+        <entry key="..\:/Users/Mr. Azeem/AndroidStudioProjects/ToBuyApp/app/src/main/res/layout/fragment_add_category.xml" value="0.2520833333333333" />
+        <entry key="..\:/Users/Mr. Azeem/AndroidStudioProjects/ToBuyApp/app/src/main/res/layout/fragment_add_item.xml" value="0.18" />
+        <entry key="..\:/Users/Mr. Azeem/AndroidStudioProjects/ToBuyApp/app/src/main/res/layout/fragment_add_item_entity.xml" value="0.15353260869565216" />
+        <entry key="..\:/Users/Mr. Azeem/AndroidStudioProjects/ToBuyApp/app/src/main/res/layout/fragment_custom_color_picker.xml" value="0.2520833333333333" />
+        <entry key="..\:/Users/Mr. Azeem/AndroidStudioProjects/ToBuyApp/app/src/main/res/layout/fragment_custom_color_picker2.xml" value="0.1537037037037037" />
+        <entry key="..\:/Users/Mr. Azeem/AndroidStudioProjects/ToBuyApp/app/src/main/res/layout/fragment_customization.xml" value="0.10486322188449848" />
+        <entry key="..\:/Users/Mr. Azeem/AndroidStudioProjects/ToBuyApp/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/Mr. Azeem/AndroidStudioProjects/ToBuyApp/app/src/main/res/layout/fragment_profile.xml" value="0.2520833333333333" />
+        <entry key="..\:/Users/Mr. Azeem/AndroidStudioProjects/ToBuyApp/app/src/main/res/layout/fragment_sort_order_bottom_sheet_dialog.xml" value="0.2520833333333333" />
+        <entry key="..\:/Users/Mr. Azeem/AndroidStudioProjects/ToBuyApp/app/src/main/res/layout/layout_color_picker_slider.xml" value="0.21851851851851853" />
+        <entry key="..\:/Users/Mr. Azeem/AndroidStudioProjects/ToBuyApp/app/src/main/res/layout/model_category.xml" value="0.18" />
+        <entry key="..\:/Users/Mr. Azeem/AndroidStudioProjects/ToBuyApp/app/src/main/res/layout/model_category_item_selection.xml" value="0.2520833333333333" />
+        <entry key="..\:/Users/Mr. Azeem/AndroidStudioProjects/ToBuyApp/app/src/main/res/layout/model_empty_button.xml" value="0.1" />
+        <entry key="..\:/Users/Mr. Azeem/AndroidStudioProjects/ToBuyApp/app/src/main/res/layout/model_empty_state.xml" value="0.161231884057971" />
+        <entry key="..\:/Users/Mr. Azeem/AndroidStudioProjects/ToBuyApp/app/src/main/res/layout/model_header_item.xml" value="0.161231884057971" />
+        <entry key="..\:/Users/Mr. Azeem/AndroidStudioProjects/ToBuyApp/app/src/main/res/layout/model_item_entity.xml" value="0.33" />
+        <entry key="..\:/Users/Mr. Azeem/AndroidStudioProjects/ToBuyApp/app/src/main/res/layout/model_priority_color_item.xml" value="0.21851851851851853" />
+        <entry key="..\:/Users/Mr. Azeem/AndroidStudioProjects/ToBuyApp/app/src/main/res/layout/model_sort_order_item.xml" value="0.2520833333333333" />
+        <entry key="..\:/Users/Mr. Azeem/AndroidStudioProjects/ToBuyApp/app/src/main/res/menu/menu_bottom_app_bar.xml" value="0.2520833333333333" />
+        <entry key="..\:/Users/Mr. Azeem/AndroidStudioProjects/ToBuyApp/app/src/main/res/menu/menu_home_fragment.xml" value="0.2520833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

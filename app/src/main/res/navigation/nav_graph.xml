@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.azeem.tobuyapp.ui.home.HomeFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_homeFragment_to_addItemFragment"
+            app:destination="@id/addItemFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/categorizationFragment"
+        android:name="com.azeem.tobuyapp.ui.customization.CustomizationFragment"
+        android:label="Customization"
+        tools:layout="@layout/fragment_customization">
+        <action
+            android:id="@+id/action_categorizationFragment_to_addCategoryFragment"
+            app:destination="@id/addCategoryFragment" />
+        <action
+            android:id="@+id/action_categorizationFragment_to_customColorFragment"
+            app:destination="@id/customColorFragment" />
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/addItemFragment"
+        android:name="com.azeem.tobuyapp.ui.add.AddItemFragment"
+        android:label="Add"
+        tools:layout="@layout/fragment_add_item" >
+        <argument
+            android:name="selectedItemEntity"
+            app:argType="string"
+            app:nullable="true"
+            android:defaultValue="@null" />
+    </fragment>
+    <fragment
+        android:id="@+id/addCategoryFragment"
+        android:name="com.azeem.tobuyapp.ui.customization.add_category.AddCategoryFragment"
+        android:label="Add Category"
+        tools:layout="@layout/fragment_add_category" >
+        <argument
+            android:name="selectedCategoryEntityId"
+            app:argType="string"
+            app:nullable="true"
+            android:defaultValue="@null" />
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/customColorFragment"
+        android:name="com.azeem.tobuyapp.ui.customization.color.CustomColorPickerFragment"
+        android:label="Custom Color Picker"
+        tools:layout="@layout/fragment_custom_color_picker">
+        <argument
+            android:name="priorityName"
+            app:argType="string"
+            app:nullable="false"
+            android:defaultValue="" />
+    </fragment>
+
+</navigation>
